@@ -1,0 +1,96 @@
+
+.a2{
+    margin-top: 30px;
+}
+
+.dater{
+    float: right;
+    padding-right: 0px;
+}
+.gray{
+    color: #808080 !important;
+    text-decoration: none;
+    /*text-decoration: underline;*/
+}
+.a4 a{
+    color: #00d0ff;
+}
+.a4 a:hover{
+    color: red;
+    text-decoration: none;
+}
+.a ul li a:hover{
+    text-decoration: none;
+}
+.a ul li a{
+    color: #555;
+}
+.a4{
+   padding-left: 60%;
+}
+
+/*.b2 a{
+    color: #00d0ff;
+}
+.b2 a:hover{
+    color: red;
+    text-decoration: none;
+}*/
+
+
+.c{
+    margin-top: 45px;
+}
+.c2{
+    margin-left: 70%;
+}
+.c2 a{
+    color: #00d0ff;
+}
+.c2 a:hover{
+    color: red;
+    text-decoration: none;
+}
+.c3 ul li a:hover{
+    text-decoration: none;
+}
+.c3 ul li a{
+    color: #555;
+}
+
+
+.d2{
+    margin-left: 70%;
+}
+.d2 a{
+    color: #00d0ff;
+}
+.d2 a:hover{
+    color: red;
+    text-decoration: none;
+}
+.d3 ul li a:hover{
+    text-decoration: none;
+}
+.d3 ul li a{
+    color: #555;
+}
+
+  /*尾部*/
+.e1{
+      display: block;
+     /* padding-top: 30px; */
+     position: relative;
+     top: 22px;
+     font-size: 10px;
+}
+.e1 div{
+    font-size: 20px;
+
+}
+    .e{
+           height: 120px;
+           margin-top: 30px;
+           background:#81d0dc; 
+    }
+

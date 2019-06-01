@@ -1,0 +1,62 @@
+
+/*导航栏样式*/
+.navbar{
+			height: 55px;
+			background: #81d0dc;
+			position: relative;
+		}
+#nav1 ul li {
+	border-radius: 8px;
+	padding:0 17.5px;
+	font-size: 16px;
+	background: #f5f5f5;
+    margin-top:2px; 
+}
+#nav1 ul li:hover,#nav1 ul li a:hover{
+   background:red;
+   color:#f5f5f5;
+}
+
+#nav1 ul li a{
+	color:blue;
+	background: transparent;
+}
+
+@media screen and (max-width: 1201px){
+	#nav1 ul li{
+	padding:0 5px;
+   }
+}
+@media screen and (max-width: 992px){
+
+    #nav1 ul li{
+    	padding:0px;
+    	font-size: 12px;
+    }
+}
+@media screen and (max-width: 768px){
+	
+	.navbar-header .navbar-toggle{
+		background-color: #8c8383c7;
+	}
+	.navbar-header .navbar-toggle .icon-bar{
+		background-color:white;
+	}
+	#nav1 ul li a{
+		font-size: 18px;
+		text-align: center;
+	}
+	.navbar-nav{
+		margin-left: 55%;
+	}
+}
+
+@media screen and (max-width: 484px){
+	.e1{
+      display: block;
+     /* padding-top: 30px; */
+     position: relative;
+     top: 0px;
+     font-size: 10px;
+  }
+}
